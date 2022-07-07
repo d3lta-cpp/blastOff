@@ -4,3 +4,6 @@ main: customplugin.blastoff.BlastOff
 api-version: 1.19
 authors: [ DeltaPasDispo, Fan ]
 description: an adaption in plugin of the Blast Off map
+libraries:
+  - com.github.shynixn.structureblocklib:structureblocklib-bukkit-api:2.8.0
+  - com.github.shynixn.structureblocklib:structureblocklib-bukkit-core:2.8.0
