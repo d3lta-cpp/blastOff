@@ -1,0 +1,6 @@
+name: BlastOff
+version: '${version}'
+main: customplugin.blastoff.BlastOff
+api-version: 1.19
+authors: [ DeltaPasDispo, Fan ]
+description: an adaption in plugin of the Blast Off map
